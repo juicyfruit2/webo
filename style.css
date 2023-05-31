@@ -1,0 +1,154 @@
+*{
+    padding :0;
+    margin:0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-size: 2rem;
+    color: black;
+}
+.navbar-brand:hover{
+    color: blue;
+
+}
+
+.nav-link{
+    margin: right 10px;
+    margin: left 10px;
+    color: black;
+    text-transform:uppercase ;
+    font-family: 'Caveat', cursive;
+}
+   
+.nav-link:hover{
+    color:black;
+    font-family: 'Caveat', cursive;
+
+}
+.search{
+    height: 40px;
+    width:80%;
+    border-radius: 60;
+    outline:none;
+    margin: right -35px; 
+    border:2px solid rgb(248, 26, 92);
+    font-family: 'Caveat', cursive;
+}
+.btn0{
+    height: 40px;
+    width:40%;
+    outline:none;
+    border:none;
+    background:rgb(248, 26, 92);
+    color:white;
+    border-radius:60px;
+    font-weight:700;
+    font-family: 'Caveat', cursive;
+}
+
+.main{
+    background:url(./img/pexels-photo-5965991.webp)no-repeat;
+    background-size:cover;
+    height: 130vh;
+    background-position:50% 50% ;
+    width:100%;
+}
+
+.main h1{
+    font-size: 4rem ;
+    font-weight:700 ;
+    font-family:"robot";
+}
+
+.btn1{
+    height:45px;
+    width:35%;
+    border:none; 
+    outline:none;
+    background-color:rgb(248, 26, 92);
+    color: white;
+    font-weight: 700;
+    border-radius:60px;
+}
+
+.apple{
+    background:linear-gradient(rgba(0,0,0,0.2),rgb(0,0,0,0.2)),url(./img/apple-heart.jpg)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.apple{
+    font-family: 'Caveat', cursive;
+}
+
+.img-hover1:hover{
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    content: url()
+}
+.img-hover2:hover{
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    content: url()
+}
+.img-hover3:hover{
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    content: url()
+}
+.img-hover4:hover{
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    content: url()
+}
+
+.img-hover5:hover{
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    content: url()
+}
+.img-hover6:hover{
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    content: url()
+}
+.img-hover7:hover{
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    content: url()
+}
+.img-hover8:hover{
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    content: url()
+}
+.img-hover9:hover{
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    content: url()
+}
+.img-hover10:hover{
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    content: url()
+}
+.img-hover11:hover{
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    content: url()
+}
+.img-hover12:hover{
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    content: url()
+}
+
+
+
+
+
+
+
+
+
+
